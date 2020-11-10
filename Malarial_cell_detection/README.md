@@ -1,5 +1,5 @@
 # Malarial Parasite Detection Using CNN
- [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg)](https://www.kaggle.com/tongpython/cat-and-dog) ![Python 3.7](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![TensorFlow](https://img.shields.io/badge/Library-TensorFlow-orange.svg)
+ [![NLM](https://img.shields.io/badge/Dataset-NLM-blue.svg)](https://ceb.nlm.nih.gov/repositories/malaria-datasets/) ![Python 3.7](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![TensorFlow](https://img.shields.io/badge/Library-TensorFlow-orange.svg)
 
 ## Demo
 
