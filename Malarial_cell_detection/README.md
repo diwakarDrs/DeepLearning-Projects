@@ -1,4 +1,4 @@
-# Malarial Parasite detection
+# Malarial Parasite Detection Using CNN
  [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg)](https://www.kaggle.com/tongpython/cat-and-dog) ![Python 3.7](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![TensorFlow](https://img.shields.io/badge/Library-TensorFlow-orange.svg)
 
 ## Demo
@@ -48,12 +48,29 @@ Using some Data Augmentation techniques for more data and Better results.
  <img src = "https://github.com/diwakarDrs/DeepLearning-Projects/blob/main/Malarial_cell_detection/ReadME/act.PNG" width = 600 alt="malaria">
  </p>
 
-### Use other pre-trained model
 
-See [Keras applications](https://keras.io/applications/) for more available models such as DenseNet, MobilNet, NASNet, etc.
+### Visualization of Model Accuracy:
+* Training Set Accuracy: 94.23%
+* Test Set Accuracy: 89.55%
+
+<p align='center'>
+ 
+ <img src = "https://github.com/diwakarDrs/DeepLearning-Projects/blob/main/Malarial_cell_detection/ReadME/acc.PNG" width = 400 alt="accuracy">
+ </p>
+
+### Visualization of Model Loss:
+* Training Set Loss: 0.1809
+* Test Set Loss: 0.2570
+
+<p align='center'>
+ <img src = "https://github.com/diwakarDrs/DeepLearning-Projects/blob/main/Malarial_cell_detection/ReadME/loss.PNG" width = 400 alt="loss">
+ </p>
 
 
-## Deployment
-To deploy in cloud, we can upload this app on heroku or other python enabled server. 
+### Furture Scope
+
+* Use other pre-trained models such as DenseNet, MobilNet, NASNet, etc.
+
+* Deployment - To deploy in cloud like heroku or other python enabled server. 
 
 
