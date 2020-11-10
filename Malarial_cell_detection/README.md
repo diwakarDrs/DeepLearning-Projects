@@ -1,4 +1,5 @@
 # Malarial Parasite detection
+ [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg)](https://www.kaggle.com/tongpython/cat-and-dog) ![Python 3.7](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![TensorFlow](https://img.shields.io/badge/Library-TensorFlow-orange.svg)
 
 ## Demo
 
@@ -13,8 +14,28 @@ The CNN has trained on the following malaria parasite image dataset  <a href="ht
 The trained model achieved accuracy of more than 95% on the test set and its weights have been saved in the Models folder (see file: my_model.h5). 
 
 
+### Dependencies:
+* Google Colaboratory / Jupyter Notebook
+* Keras
+* Tensorflow
+* Python - 3.7
+* Scikit-Learn
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
+
+### Data Augmentation
+Using some Data Augmentation techniques for more data and Better results.
+* Shearing of images
+* Random zoom
+* Horizontal flips
 
 
+<p align='center'>
+ 
+ <img src = "https://github.com/diwakarDrs/DeepLearning-Projects/blob/main/Malarial_cell_detection/ReadME/data.PNG" width = 600 alt="malaria">
+ </p>
 
 ### Use other pre-trained model
 
