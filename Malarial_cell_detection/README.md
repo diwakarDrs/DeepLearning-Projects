@@ -34,7 +34,18 @@ Using some Data Augmentation techniques for more data and Better results.
 
 <p align='center'>
  
- <img src = "https://github.com/diwakarDrs/DeepLearning-Projects/blob/main/Malarial_cell_detection/ReadME/data.PNG" width = 600 alt="malaria">
+ <img src = "https://github.com/diwakarDrs/DeepLearning-Projects/blob/main/Malarial_cell_detection/ReadME/data.PNG" width = 600 alt="Data_Augmentation">
+ </p>
+ 
+ ### Network Parameter:
+* Rectifier Linear Unit (ReLU) - Hidden Layers
+* Sigmoid - Output Layer
+* Adam optimizer
+* Loss: Binary CrossEntropy
+
+<p align='center'>
+ 
+ <img src = "https://github.com/diwakarDrs/DeepLearning-Projects/blob/main/Malarial_cell_detection/ReadME/act.PNG" width = 600 alt="malaria">
  </p>
 
 ### Use other pre-trained model
